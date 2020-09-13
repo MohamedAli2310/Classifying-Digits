@@ -1,4 +1,8 @@
-## CS 360 Lab 1 - K-nearest neighbors
+# Classifying-Digits
+
+##### Implementation of KNN to classify normalized handwritten digits.
+
+## CS 360 Lab 1 - K-nearest neighbors - Machine Learning Class
 
 Name: Mohamed Ali
 
