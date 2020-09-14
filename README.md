@@ -97,3 +97,16 @@ Actual: 3      FN =  7       TP =  162
 #### Extension 3:
 
 Check out extension3.png
+--------------------------------------------------------------------------------------------
+
+#### Extension 4:
+
+Visualized exapmles that the algorithm got wrong. The examples are pretty bad and tbh I don't blame the algorithm for getting them wrong.   
+
+Check out a sample of those examples at:  
+
+extension4_sample1.png  
+
+extension4_sample2.png  
+
+extension4_sample3.png  
