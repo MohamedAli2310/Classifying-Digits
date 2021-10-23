@@ -94,17 +94,14 @@ Actual: 3      FN =  7       TP =  162
 
 #### Extension 3:
 
-Check out extension3.png
+<p align="center"><img src="extension3.png" alt="extension 3"></p>
 --------------------------------------------------------------------------------------------
 
 #### Extension 4:
 
 Visualized exapmles that the algorithm got wrong. The examples are pretty bad and tbh I don't blame the algorithm for getting them wrong.   
 
-Check out a sample of those examples at:  
-
-extension4_sample1.png  
-
-extension4_sample2.png  
-
-extension4_sample3.png  
+Check out a sample of those examples here:  
+<p align="center"><img src="extension4_sample1.png" alt="extension 4a"></p>
+<p align="center"><img src="extension4_sample2.png" alt="extension 4b"></p>
+<p align="center"><img src="extension4_sample3.png" alt="extension 4c"></p>
