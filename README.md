@@ -6,8 +6,6 @@
 
 Name: Mohamed Ali
 
-Number of Late Days using for this lab: 0
-
 ---
 
 ### Analysis Questions
